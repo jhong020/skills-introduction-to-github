@@ -7,4 +7,4 @@ This can be seen to have tremendous advantage, for example, traditionaly, a unor
 </ul>
 it can be simply done through adding `-` infront of the statements, and child items added using identation. <br>
 - This is an example
-  - this is a child
+-- this is a child
