@@ -11,7 +11,7 @@ it can be simply done through adding `-` infront of the statements, and child it
    - this is a child
 
 <br>
-Or at least that is what it seems to be.. the documentation mentions that you have to specify it <bold>DIRECTLY BELOW</bold> the bloody <emphasis>character</emphasis>. Jesus christ.
+Or at least that is what it seems to be.. the documentation mentions that you have to specify it <bold>DIRECTLY BELOW</bold> the bloody <em>character</em>. Jesus christ.
 Jamie pull up how it was done in <code>html</code>:<br><br>
 
 ```
