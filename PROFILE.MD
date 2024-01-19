@@ -7,4 +7,18 @@ This can be seen to have tremendous advantage, for example, traditionaly, a unor
 </ul>
 it can be simply done through adding `-` infront of the statements, and child items added using identation. <br>
 1. This is an example
-  - this is a child
+   - this is a child
+Or at least that is what it seems to be.. the documentation mentions that you have to specify it <bold>DIRECTLY BELOW</bold> the bloody <emphasis>character</emphasis>. Jesus christ.
+Jamie pull up how it was done in <code>html</code>:<br><br>
+
+<code>
+  <ul>
+    <li>List</li>
+      <ul>
+        <li>child</li>
+      </ul>
+    <li>List2</li>
+  </ul>
+<\code>
+
+
